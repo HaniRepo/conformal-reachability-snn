@@ -47,7 +47,8 @@ You can use the environment where we freezed simply by running:
 conda env create -f environment.yml
 conda activate qest26
 ```
-alternatively, you can install related packages in the requirement file.
+
+Alternatively, you can install related packages in the requirement file.
 ---
 ## Running Experiments
 🔹 Option 1 (Recommended)
