@@ -42,12 +42,12 @@ The pipeline is:
 
 ---
 ## Environment Setup
-You can use the environment where we freezed by create environment:
+You can use the environment where we freezed simply by running:
 ```bash
 conda env create -f environment.yml
 conda activate qest26
 ```
-alternatively, you can install related package in the requirement file.
+alternatively, you can install related packages in the requirement file.
 ---
 ## Running Experiments
 🔹 Option 1 (Recommended)
