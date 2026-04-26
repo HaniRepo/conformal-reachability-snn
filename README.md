@@ -1,5 +1,4 @@
 # Conformal Reachability Analysis with SNN-Based Monitoring
-Code for the QEST 2026 paper “Conformal Reachability Bounds for Stochastic Abstractions of Spiking Neural Predictors”. Includes preprocessing, SNN scoring, conformal calibration, DTMC abstraction, and Storm-based reachability analysis.
 
 This repository provides a reproducible artifact for uncertainty-aware predictive maintenance using:
 
