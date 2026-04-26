@@ -45,7 +45,7 @@ The pipeline is:
 You can use the environment where we freezed by create environment:
 ```bash
 conda env create -f environment.yml
-conda activate qust26
+conda activate qest26
 ```
 alternatively, you can install related package in the requirement file.
 ---
