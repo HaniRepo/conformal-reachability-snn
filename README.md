@@ -80,7 +80,7 @@ This repository supports multiple industrial case studies:
 - **Filtration Dataset**  
   Included within the repository (`data/data_filter` )
 
-Due to GitHub size limitations, some datasets may be partially included or require manual download.
+
 
 ---
 
