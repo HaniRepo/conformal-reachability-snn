@@ -1,0 +1,57 @@
+Comparison Summary Across Case Studies
+=============================================
+
+1797 RPM
+--------
+Calibration accuracy: 0.9402
+Conformal qhat: 0.3015
+Mean interval width: 0.4615
+Thresholds: q1=1.0000, q2=2.0000
+Score range: min=0.0005, max=2.9995
+Reachability: state 0 -> 0.0181, state 1 -> 0.4500, state 2 -> 1.0000
+
+4-Class Severity Distribution
+  Healthy (0): 1213 (25.02%)
+  Mild (1): 1213 (25.02%)
+  Medium (2): 1212 (24.99%)
+  Severe (3): 1211 (24.97%)
+
+Abstracted 3-State Distribution
+  Healthy (0): 1220 (25.16%)
+  Degrading (1): 2259 (46.59%)
+  Critical (2): 1370 (28.25%)
+
+Transition Matrix P
+  0.991803  0.008197  0.000000
+  0.003984  0.936698  0.059318
+  0.000000  0.097151  0.902849
+
+=============================================
+
+1730 RPM
+--------
+Calibration accuracy: 0.9521
+Conformal qhat: 0.3046
+Mean interval width: 0.4688
+Thresholds: q1=1.0000, q2=2.0000
+Score range: min=0.0003, max=2.9992
+Reachability: state 0 -> 0.0815, state 1 -> 0.5609, state 2 -> 1.0000
+
+4-Class Severity Distribution
+  Healthy (0): 1218 (25.03%)
+  Mild (1): 1217 (25.01%)
+  Medium (2): 1217 (25.01%)
+  Severe (3): 1215 (24.96%)
+
+Abstracted 3-State Distribution
+  Healthy (0): 1254 (25.77%)
+  Degrading (1): 2166 (44.50%)
+  Critical (2): 1447 (29.73%)
+
+Transition Matrix P
+  0.970494  0.029506  0.000000
+  0.016620  0.896584  0.086796
+  0.000000  0.129322  0.870678
+
+=============================================
+

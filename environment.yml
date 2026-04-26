@@ -1,0 +1,19 @@
+name: qest26
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - pywavelets
+  - openpyxl
+  - graphviz
+  - pip:
+      - snntorch
+      - torch

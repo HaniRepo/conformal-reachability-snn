@@ -1,0 +1,33 @@
+QEST SNN Results Summary - 1797 RPM
+=======================================================
+
+Calibration accuracy: 0.9402
+Conformal score radius qhat: 0.3015
+Mean conformal interval width: 0.4615
+State thresholds: q1=1.0000, q2=2.0000
+Score range: min=0.0005, max=2.9995
+
+Windows shape: (4849, 200)
+SNN score shape: (4849,)
+States shape: (4849,)
+
+4-Class Severity Distribution
+  Healthy (0): 1213 (25.02%)
+  Mild (1): 1213 (25.02%)
+  Medium (2): 1212 (24.99%)
+  Severe (3): 1211 (24.97%)
+
+Abstracted 3-State Distribution
+  Healthy (0): 1220 (25.16%)
+  Degrading (1): 2259 (46.59%)
+  Critical (2): 1370 (28.25%)
+
+Transition Matrix P
+  0.991803  0.008197  0.000000
+  0.003984  0.936698  0.059318
+  0.000000  0.097151  0.902849
+
+Finite-Horizon Reachability to State 2
+  From state 0: 0.0181
+  From state 1: 0.4500
+  From state 2: 1.0000

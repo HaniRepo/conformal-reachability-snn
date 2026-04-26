@@ -1,0 +1,15 @@
+Filtration Storm Export Summary
+===============================
+
+Generated model sets:
+1) health_init*_absorb.pm for expected time to failure
+2) health_init*_occ.pm for degradation occupancy
+
+Initial states: 0, 1, 2
+Critical/failure state: 3
+
+Transition matrix P:
+  0.9680111266  0.0319888734  0.0000000000  0.0000000000
+  0.0339036755  0.9423320659  0.0237642586  0.0000000000
+  0.0000000000  0.0161484695  0.9573391179  0.0265124126
+  0.0018771789  0.0000000000  0.0273531778  0.9707696433

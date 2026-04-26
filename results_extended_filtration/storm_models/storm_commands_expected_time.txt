@@ -1,0 +1,3 @@
+storm --prism health_init0_absorb.pm --prop 'R=? [F "critical"]'
+storm --prism health_init1_absorb.pm --prop 'R=? [F "critical"]'
+storm --prism health_init2_absorb.pm --prop 'R=? [F "critical"]'

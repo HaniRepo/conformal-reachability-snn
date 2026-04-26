@@ -1,0 +1,37 @@
+Filtration Results Summary
+==================================================
+
+Official validation classification accuracy: 0.9604
+Conformal score radius qhat: 0.0148
+Mean conformal interval width: 0.0211
+State thresholds: 0.0092, 0.5001, 0.9999
+Reachability horizon: H=25
+Validation score range: min=0.0001, max=1.0000
+
+Training feature matrix shape: (51713, 12)
+Validation feature matrix shape: (14630, 12)
+Validation score shape: (14630,)
+Validation states shape: (14630,)
+
+Validation 3-Class Label Distribution
+  Healthy (0): 4298 (29.38%)
+  Degrading (1): 5088 (34.78%)
+  Critical (2): 5244 (35.84%)
+
+Abstracted State Distribution
+  Healthy (0): 3691 (25.23%)
+  Early degr. (1): 3810 (26.04%)
+  Late degr. (2): 3386 (23.14%)
+  Critical (3): 3743 (25.58%)
+
+Transition Matrix P
+  0.9720942834  0.0279057166  0.0000000000  0.0000000000
+  0.0249343832  0.9619422572  0.0131233596  0.0000000000
+  0.0000000000  0.0124040165  0.9530419374  0.0345540461
+  0.0000000000  0.0000000000  0.0291834003  0.9708165997
+
+Finite-Horizon Reachability to Final State within H=25
+  From state 0: 0.0161
+  From state 1: 0.0749
+  From state 2: 0.5212
+  From state 3: 1.0000

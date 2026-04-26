@@ -1,0 +1,24 @@
+NASA FD001 all-in-one simplified one-signal results
+============================================================
+
+Selected sensor: sensor_11
+Use light preprocessing: True
+Use monotone enforcement: True
+Use per-engine DTMC counting: True
+Window size: 30
+Stride: 1
+Smoothing window: 3
+Conformal qhat: 0.2555
+Mean conformal width: 0.3135
+Learned thresholds: q1=0.2553, q2=0.7120
+Score range: min=0.0000, max=0.9999
+
+Transition matrix P:
+  0.993443  0.006557  0.000000
+  0.000000  0.976809  0.023191
+  0.000000  0.000000  1.000000
+
+Finite-horizon reachability to critical state:
+  From state 0: 0.0063
+  From state 1: 0.2091
+  From state 2: 1.0000

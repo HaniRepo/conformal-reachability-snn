@@ -1,0 +1,14 @@
+NASA FD001 Storm Export Summary
+===============================
+
+Model type: bounded DTMC with explicit time counter t
+Internal model horizon H: 10
+Initial states in commands: 0, 1
+Critical state: 2
+Command horizons: 1, 2, 5, 10, 15, 20, 25
+Note: for command horizons larger than H, the reachability probability remains constant because the model self-loops at t=H.
+
+Transition matrix P:
+  0.9934434828  0.0065565172  0.0000000000
+  0.0000000000  0.9768089054  0.0231910946
+  0.0000000000  0.0000000000  1.0000000000

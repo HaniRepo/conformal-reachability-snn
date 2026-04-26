@@ -1,0 +1,16 @@
+storm --prism nasa_init0.pm --prop 'P=? [F<=1 "critical"]'
+storm --prism nasa_init0.pm --prop 'P=? [F<=2 "critical"]'
+storm --prism nasa_init0.pm --prop 'P=? [F<=5 "critical"]'
+storm --prism nasa_init0.pm --prop 'P=? [F<=10 "critical"]'
+storm --prism nasa_init0.pm --prop 'P=? [F<=15 "critical"]'
+storm --prism nasa_init0.pm --prop 'P=? [F<=20 "critical"]'
+storm --prism nasa_init0.pm --prop 'P=? [F<=25 "critical"]'
+
+storm --prism nasa_init1.pm --prop 'P=? [F<=1 "critical"]'
+storm --prism nasa_init1.pm --prop 'P=? [F<=2 "critical"]'
+storm --prism nasa_init1.pm --prop 'P=? [F<=5 "critical"]'
+storm --prism nasa_init1.pm --prop 'P=? [F<=10 "critical"]'
+storm --prism nasa_init1.pm --prop 'P=? [F<=15 "critical"]'
+storm --prism nasa_init1.pm --prop 'P=? [F<=20 "critical"]'
+storm --prism nasa_init1.pm --prop 'P=? [F<=25 "critical"]'
+

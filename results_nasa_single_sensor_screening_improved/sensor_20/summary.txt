@@ -1,0 +1,19 @@
+Single-sensor screening: sensor_20
+============================================================
+
+qhat: 0.2876
+mean_width: 0.3563
+q1: 0.2453
+q2: 0.6926
+threshold_gap: 0.4472
+matrix_cleanliness: 2.9803
+
+Transition matrix P:
+  0.991244  0.008756  0.000000
+  0.008946  0.965209  0.025845
+  0.000000  0.000889  0.999111
+
+Finite-horizon reachability to critical state:
+  From healthy:   0.0091
+  From degrading: 0.2217
+  From critical:  1.0000
