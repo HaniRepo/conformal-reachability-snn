@@ -113,7 +113,7 @@ https://www.stormchecker.org/
 
 Generated artifacts include:
 
-- `.pm` files (DTMC models)
+- DTMC models (`.pm` files)
 - Storm command scripts
 - Reachability and analysis summaries
 
