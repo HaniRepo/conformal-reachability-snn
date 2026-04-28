@@ -128,11 +128,6 @@ Generated artifacts include:
 
 ---
 
-### ⚠️ Notes
-
-- Storm must be installed separately or you can use our docker that will be released shortly.  
-
----
 
 ###  Reproducibility
 
@@ -143,4 +138,9 @@ This artifact has been tested on:
 - Windows and Linux platforms  
 ---
 
+### ⚠️ Notes
 
+ To run the probabilistic model checking models, Storm must be installed separately o your machine. alternatively, you can use the docker file we provided to accompany the the paper that is available at the following link:
+  https://zenodo.org/records/19825110
+
+---
