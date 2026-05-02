@@ -140,7 +140,7 @@ This artifact has been tested on:
 
 ### ⚠️ Notes
 
- To run the probabilistic model checking models, Storm must be installed separately on your machine. Alternatively, you can use the docker file provided to accompany the the paper that is available at the following link:
+ To reproduce the probabilistic model checking results, the Storm tool must be installed locally. As an alternative, we provide a pre-configured Docker environment accompanying the paper, accessible at the following link:
  
 https://doi.org/10.5281/zenodo.19825110  
 
