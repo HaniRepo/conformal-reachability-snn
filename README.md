@@ -141,7 +141,6 @@ This artifact has been tested on:
 ### ⚠️ Notes
 
  To reproduce the probabilistic model checking results, the Storm tool must be installed locally. As an alternative, we provide a pre-configured Docker environment accompanying the paper, accessible at the following link:
- 
-https://doi.org/10.5281/zenodo.19825110  
+ [10.5281/zenodo.19825109. ](https://doi.org/10.5281/zenodo.20057532)
 
 ---
